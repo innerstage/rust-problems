@@ -4,22 +4,29 @@ A set of 89 problems that helped me learn C, but solved in Rust instead. I'll ad
 These problems were created by my programming languages professor at uni, Jorge López Reguera, for his [automated learning support platform](http://pa3p.inf.udec.cl/C/CENTRO_EVALUADOR/) which would take your code in C and check it.
 
 ## 01. "Hello World"
-Create a program in Rust that prints:
+Write a program in Rust that prints:
+```
 Hello world!
+```
 There must be a carriage return at the end (\n).
 
 ## 02. "Hello World" ten times
-Create a program in Rust that prints 10 times:
+Write a program in Rust that prints 10 times:
+```
 Hello world!
+```
 There must be a carriage return (\n) at the end of each line.
 
 ## 03. Print integers from 1 to 10, on one line
 Create a program in Rust that prints:
+```
 1 2 3 4 5 6 7 8 9 10
+```
 There must be a carriage return (\n) at the end of the line.
 
 ## 04. Print integers from 1 to 10, one on each line
 Create a program in Rust that prints:
+```
 1
 2
 3
@@ -30,10 +37,12 @@ Create a program in Rust that prints:
 8
 9
 10
+```
 There must be a carriage return (\n) at the end of each line.
 
 ## 05. Print integers from 1 to 100, one on each line
-Create a program in Rust that prints integers from 1 to 100 in the following way:
+Create a program in Rust that prints integers from 1 to 100 in the following way:`
+```
 1
 2
 3
@@ -47,10 +56,12 @@ Create a program in Rust that prints integers from 1 to 100 in the following way
 .
 .
 100
+```
 There must be a carriage return (\n) at the end of each line.
 
 ## 06. Print integers as a triangle
-Create a program in Rust that prints:
+Create a program in Rust that prints:`
+```
 1
 2 2
 3 3 3
@@ -60,11 +71,12 @@ Create a program in Rust that prints:
 7 7 7 7 7 7 7
 8 8 8 8 8 8 8 8
 9 9 9 9 9 9 9 9 9
-
+```
 There must be a carriage return (\n) at the end of each line.
 
 ## 07. Print integers as an arrowhead
 Create a program in Rust that prints:
+```
 1
 2 2
 3 3 3
@@ -82,7 +94,7 @@ Create a program in Rust that prints:
 3 3 3
 2 2
 1
-
+```
 There must be a carriage return (\n) at the end of each line.
 
 ## 08. Print the content of an integer variable

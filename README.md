@@ -129,3 +129,13 @@ Output example:
 The values 19 and 19, read from input, add up to 38
 ```
 There must be a carriage return (\n) at the end.
+
+## 13. Copy the content of a variable in other three variables
+Write a program in Rust that twice prints the contents of four floating global variables named x, y, w and z. The variables can be initialized with any value. The variables must be printed with the initial values, then copy the value of x to the other three variables and print them again.
+
+Output example:
+```
+x: 7.000000, y: 0.666667, w: 1.250000, z: 0.000000
+x: 7.000000, y: 7.000000, w: 7.000000, z: 7.000000
+```
+There must be a carriage return (\n) at the end.

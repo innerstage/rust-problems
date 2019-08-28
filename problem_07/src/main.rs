@@ -10,8 +10,8 @@ fn main() {
     for i in 1..=17 {
         let a = -abs(i-9)+9;
         for _j in 1..a {
-            print!("{} ",a);
+            print!("{} ", a);
         }
-        println!("{}",a);
+        println!("{}", a);
     }
 }
